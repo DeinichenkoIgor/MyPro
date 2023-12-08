@@ -1,0 +1,8 @@
+@media screen and (max-width: 993px) {
+      .header {
+        font-size: 20px;
+      }
+    }
+
+npm run dev
+
